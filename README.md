@@ -6,14 +6,18 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Ana Letícia
+- Bruna Bastos
+- Bruno Albarez
+- Caio Vinicius
+- Carolina Mahalem
+- José Ulisses
+- Laura Zanão
 
 ## Professor
 
-- Mestre Yoda
+- Diego Roberto Gonçalves de Pontes
+- Luciana de Nardin
 
 # Documentação
 
