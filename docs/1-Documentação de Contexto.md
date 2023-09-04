@@ -1,6 +1,7 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Nos últimos anos, o universo dos jogos eletrônicos tem presenciado uma verdadeira revolução. Os jogos deixaram de ser meramente uma forma de entretenimento e se transformaram em ferramentas educacionais poderosas para crianças e adolescentes. Com a tecnologia cada vez mais acessível e crianças se familiarizando com dispositivos eletrônicos desde muito cedo, o desenvolvimento de jogos voltados especificamente para esse público tornou-se um campo em rápido crescimento. Esses jogos não apenas cativam os jovens jogadores, mas também oferecem oportunidades valiosas para aprendizado e desenvolvimento de habilidades
+Nesta era digital, o desenvolvimento de jogos direcionados a crianças e adolescentes desempenha um papel fundamental na criação de experiências lúdicas e educacionais que estão moldando o futuro da próxima geração. Nesse contexto, exploraremos o fascinante mundo do desenvolvimento de jogos destinados a esse público jovem, analisando como esses jogos podem inspirar, educar e encantar as mentes em desenvolvimento.
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
