@@ -4,14 +4,11 @@ Nos últimos anos, o universo dos jogos eletrônicos tem presenciado uma verdade
 Nesta era digital, o desenvolvimento de jogos direcionados a crianças e adolescentes desempenha um papel fundamental na criação de experiências lúdicas e educacionais que estão moldando o futuro da próxima geração. Nesse contexto, exploraremos o fascinante mundo do desenvolvimento de jogos destinados a esse público jovem, analisando como esses jogos podem inspirar, educar e encantar as mentes em desenvolvimento.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A escassez de profissionais na área de desenvolvimento de jogos é um problema crescente que impacta a indústria de maneira significativa. O Google divulgou em estudos em que mostra os principais desafios do mercado de tecnologia da informação no Brasil. Segundo a empresa, o país terá um déficit de 530 mil profissionais da área até 2025. O relatório, produzido em parceria com a Associação Brasileira de Startups (Abstartups), aponta que, anualmente, 53 mil profissionais irão se formar entre 2021 e 2025, mas a demanda por novos talentos nesse período será de 800 mil, segundo a associação das empresas de tecnologia, a Brasscom.
+Uma das principais causas dessa escassez é a rápida expansão do setor de jogos. Com o aumento da popularidade dos jogos eletrônicos e a diversificação de plataformas, como dispositivos móveis, consoles e PC, a demanda por desenvolvedores, designers, artistas e outros especialistas em jogos disparou. Além disso, a complexidade crescente dos jogos modernos requer habilidades técnicas avançadas em áreas como programação, design de jogos e inteligência artificial.
+Essa falta de profissionais pode ter sérias consequências, como atrasos no desenvolvimento de jogos, aumento dos custos de produção e até mesmo a perda de oportunidades de negócios para as empresas do setor.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 - Objetivos do Projeto:
