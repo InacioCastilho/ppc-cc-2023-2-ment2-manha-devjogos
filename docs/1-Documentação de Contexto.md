@@ -20,12 +20,8 @@ Essa falta de profissionais pode ter sérias consequências, como atrasos no des
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Atualmente no Brasil, o desenvolvimento de games tem ganhado grande aumento em relação aos outros anos. De acordo com o site G1[2], o último levantamento da Abragames(Associação Brasileira das Desenvolvedoras de Games), a indústria brasileira de desenvolvimento de games cresceu mais de 600% em oito anos. O total de empresas passou de 133 em 2014 para 1009 no último ano e ja passam de 12 mil vagas de empregos geradas. 
+Assim como na programação, o mercado da área de Desenvolvimento de Jogos também está em déficit de profissionais qualificados para ocupar as vagas de trabalho. tendo em vista os dados acima, nosso principal objetivo é introduzir essa área aos jovens e os instigar a seguir este caminho lhes dando um caminho para percorrer e sanando a falta de profissionais existentes no mercado. 
 
 ## Público-Alvo
 
