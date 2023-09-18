@@ -10,7 +10,6 @@
 - Bruna Bastos
 - Bruno Albarez
 - Caio Vinicius
-- Carolina Mahalem
 - José Ulisses
 - Laura Zanão
 
