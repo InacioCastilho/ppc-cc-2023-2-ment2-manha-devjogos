@@ -11,7 +11,7 @@ Com o objetivo de instigar maior entusiasmo entre os estudantes na área da prog
 | 16/11 | 3 | Desenvolvimento e Definição do Projeto | 120 minutos | 
 | 17/11 | 4 | Finalização do Projeto | 120 minutos |
 
-Aula 1:  Será uma aula mais de apresentação do grupo, explicar mais ou menos como vão ser as aulas e falar um pouco sobre a área da Ciências da Computação. Após isso, começar uma introdução da plataforma GDevelop, explicar o básico da ferramenta, por exemplo, como entrar no site, criar um projeto, etc.
+Aula 1:  Será uma aula mais de apresentação do grupo, explicar mais ou menos como vão ser as aulas e falar um pouco sobre a área da Ciência da Computação. Após isso, começar uma introdução da plataforma GDevelop, explicar o básico da ferramenta, por exemplo, como entrar no site, criar um projeto, etc.
 
 Aula 2:  Continuaremos a introdução da Game Engine e explicaremos conceitos mais complexos da plataforma, como funcionam as mecânicas da engine e deixaremos algumas atividades para fazerem, montar a cena do jogo.
 
