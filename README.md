@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Ana Letícia
+- Ana Letícia Sandy
 - Bruna Bastos
 - Bruno Albarez
 - Caio Vinicius
