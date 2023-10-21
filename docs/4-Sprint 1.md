@@ -8,7 +8,7 @@ Horários - 14h às 16h
 
 Aula 1 - Iremos nos apresentar e será uma introdução à plataforma e como será o desenvolvimento das aulas. O foco será a aprendizagem e entendimento da ferramenta, como inicial o projeto, como adicionar objetos na cena, tirar dúvidas, etc. O objetivo desta primeira aula também é explicar para os alunos que não tem um projeto fixo, que eles não devem fazer algo que exatamente nós pensamos, sendo assim de uma forma mais independentes e fazer do jeito deles. Além disso, terá uma roda de conversa para entendermos as condições dos alunos, se já tem práticas de programação e desenvolvimento, afim de estabelecemos uma comunicação e deixar todos confortáveis. 
 
-Aula 1- 09/11 - 
+Aula 1- 09/11 
 Apresentação aos alunos:
 •	Quem somos;
 •	O que vamos fazer;
@@ -31,3 +31,9 @@ Aula 3 - Continuação da aula anterior. A cada aula iremos propor desafios rela
 Aula 4 - Finalização e apresentação dos projetos desenvolvidos ao longo do curso.
 
 Inicialmente, temos a ideia de irmos em duplas, afim de equilibrar as tarefas durante o curso. Durante as aulas, poderá ter outro participante que irá por conta justamente para dar mais suporte aos participantes, porém nas aulas terá a dupla fixa e certa nos dias propostos. 
+
+Primeira Dupla (dia 09/11) -
+Segunda Dupla (10/11) -
+Terceira Dupla (16/11) -
+Quarta Dupla (17/11) - 
+
