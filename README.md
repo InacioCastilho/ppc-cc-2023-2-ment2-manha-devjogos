@@ -10,8 +10,10 @@
 - Bruna Bastos
 - Bruno Albarez
 - Caio Vinicius
+- Inácio Castilho 
 - José Ulisses
 - Laura Zanão
+- Samuel Batuira
 
 ## Professor
 
