@@ -24,7 +24,7 @@ Roda de conversa para entendermos as condições dos alunos:
 O que são engines? Em português, "engine" pode ser traduzido como "motor" ou "máquina". No contexto de jogos eletrônicos, "engine" refere-se a um software que fornece uma plataforma para o desenvolvimento de jogos. Ele fornece uma série de recursos e ferramentas que permitem aos desenvolvedores criar jogos de forma mais rápida e fácil.
 Os engines de jogo são usados por desenvolvedores de jogos de todos os tamanhos, desde grandes estúdios até desenvolvedores independentes. Eles são uma ferramenta essencial para o desenvolvimento de jogos modernos, pois permitem que os desenvolvedores se concentrem na criação de conteúdo criativo, em vez de ter que reimplementar recursos básicos de jogo.
 
-Aula 2 - Continuidade da primeira aula, na teoria ja teremos passado como é utilizada. Nesta segunda aula será o primeiro contato prático dos alunos com a plataforma, assim iniciaremos o projeto de desenvolvimento. Como primeira atividade e desafio, os alunos deverão uma cena para o jogo, individualmente, porém sempre com nosso auxílio. 
+Aula 2 - Continuidade da primeira aula, na teoria ja teremos passado como é utilizada. Nesta segunda aula será o primeiro contato prático dos alunos com a plataforma, assim iniciaremos o projeto de desenvolvimento. Como primeira atividade e desafio, os alunos deverão fazer uma cena para o jogo, individualmente, porém sempre com nosso auxílio. 
 
 Aula 3 - Continuação da aula anterior. A cada aula iremos propor desafios relacionado à ferramenta aos alunos. 
 
