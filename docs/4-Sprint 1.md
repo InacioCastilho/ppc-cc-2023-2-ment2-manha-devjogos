@@ -9,7 +9,7 @@ Horários - 14h às 16h
 |17/11 | 4 Finalização do projeto | 90 minutos |
 
 ## Aula 1 
-Iremos nos apresentar e será uma introdução à plataforma e como será o desenvolvimento das aulas. O foco será a aprendizagem e entendimento da ferramenta, como inicial o projeto, como adicionar objetos na cena, tirar dúvidas, etc. O objetivo desta primeira aula também é explicar para os alunos que não tem um projeto fixo, que eles não devem fazer algo que exatamente nós pensamos, sendo assim de uma forma mais independentes e fazer do jeito deles. Além disso, terá uma roda de conversa para entendermos as condições dos alunos, se já tem práticas de programação e desenvolvimento, afim de estabelecemos uma comunicação e deixar todos confortáveis. 
+Iremos nos apresentar e será uma introdução à plataforma e como será o desenvolvimento das aulas. O foco será a aprendizagem e entendimento da ferramenta, como iniciar o projeto, como adicionar objetos na cena, tirar dúvidas, etc. O objetivo desta primeira aula também é explicar para os alunos que não tem um projeto fixo, que eles não devem fazer algo que exatamente nós pensamos, sendo assim de uma forma mais independentes e fazer do jeito deles. Além disso, terá uma roda de conversa para entendermos as condições dos alunos, se já tem práticas de programação e desenvolvimento, afim de estabelecemos uma comunicação e deixar todos confortáveis. 
 
 Apresentação aos alunos:
 +	Quem somos;
