@@ -40,5 +40,5 @@ Inicialmente, temos a ideia de irmos em duplas, afim de equilibrar as tarefas du
 ||Primeira Dupla (dia 09/11) | Segunda Dupla (10/11) | Terceira Dupla (16/11) | Quarta Dupla (17/11) |
 |-|--------------------------|-----------------------|------------------------|----------------------|
 |1| Bruno                    |     Caio              |  José                  |      Bruna Bastos    |
-|2|                          |                       |  Samuel                |      Ana letícia     |
+|2|     Laura                |    Inácio             |  Samuel                |      Ana letícia     |
 
