@@ -42,3 +42,5 @@ Inicialmente, temos a ideia de irmos em duplas, afim de equilibrar as tarefas du
 |1|     Bruno                |    Caio               |  José                  |      Bruna Bastos    |
 |2|     Laura                |    Ana letícia        |  Samuel                |      Inácio          |
 
+
+Link dos slides que serão utilizados nas aulas: https://www.canva.com/design/DAFxbGpOlZk/NnirtLkXk8yhMA4LMQoKOw/edit
