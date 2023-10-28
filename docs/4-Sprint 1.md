@@ -20,7 +20,7 @@ Apresentação aos alunos:
 Roda de conversa para entendermos as condições dos alunos:
 +	O que sabem e entendem de programação e desenvolvimento de jogos;
 +	“Vocês tem curiosidade sobre o mundo da programação e tecnologia?”;
-+	Tiras dúvidas;
++	Tirar dúvidas;
 +	Criar comunicação com os alunos.
 
 O que são engines? Em português, "engine" pode ser traduzido como "motor" ou "máquina". No contexto de jogos eletrônicos, "engine" refere-se a um software que fornece uma plataforma para o desenvolvimento de jogos. Ele fornece uma série de recursos e ferramentas que permitem aos desenvolvedores criar jogos de forma mais rápida e fácil.
