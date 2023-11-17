@@ -35,7 +35,7 @@ Continuação da aula anterior. A cada aula iremos propor desafios relacionado �
 ||Primeira Dupla (dia 22/11) | Segunda Dupla (24/11) | Terceira Dupla (27/11) | 
 |-|--------------------------|-----------------------|------------------------|
 |1|     Bruno                |    Inácio             |          Bruna         |          
-|2|     Laura                |    Ana Letícia        |                        | 
+|2|     Laura                |    Ana Letícia        |           José         | 
 |3|     Caio                 |                       |                        |                  
              
 
