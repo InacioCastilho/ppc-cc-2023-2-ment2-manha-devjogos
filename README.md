@@ -13,7 +13,6 @@
 - Inácio Castilho 
 - José Ulisses
 - Laura Zanão
-- Samuel Batuira
 
 ## Professor
 
