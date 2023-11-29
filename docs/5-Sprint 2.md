@@ -39,4 +39,7 @@ Nesta última aula ensinamos mais duas aplicações da plataforma e os alunos fi
 
 ## Percepções Pessoais
 
-Bruna: Achei interessante dar aula desse tema para pessoas mais jovens. Os alunos se adaptaram muito bem na plataforma e isso me impressionou, tanto que foi tranquilo ensinar o básico e oferecer auxílio quando necessário. Vi grande potencial em cada um deles e pude notar o quanto estavam se divertindo, conseguir ajudar todos os alunos por conta da turma ser pequena, conversar um pouco com eles foi o suficiente para saber que estava fazendo meu trabalho corretamente. 
+Bruna: Achei interessante dar aula desse tema para pessoas mais jovens. Os alunos se adaptaram muito bem na plataforma e isso me impressionou, tanto que foi tranquilo ensinar o básico e oferecer auxílio quando necessário. Vi grande potencial em cada um deles e pude notar o quanto estavam se divertindo, conseguir ajudar todos os alunos por conta da turma ser pequena, conversar um pouco com eles foi o suficiente para saber que estava fazendo meu trabalho corretamente.
+
+
+Caio: Foi interesante dar as aulas,ver como alguns alunos conseguiam criar os projetos com mais facilidade que os outros,alguns alunos ate comemoravam quando conseguiam fazer algo sozinho sem ter que perguntar como fazia algo que queriam.Foi divertido as convesas com eles,sobre o que estavam achando da materia, algumas vezes saindo um pouco da materia e falando sobre a escola e o que eles queriam fazer no futuro,foi algo divertido de fazer o projeto e ver o desenvolvimento rapido dos alunos sobre a a materia e seu interese em criar um jogo.
