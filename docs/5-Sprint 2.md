@@ -21,9 +21,18 @@ Laura: Eu achei incrível como eles pegaram o jeito rapidamente e tiveram poucas
 
 Dia 24/11 - Aula 2 (14:00 até 15:30) - Alunos Ana letícia e Inácio.
 
+Na segunda aula, assim que os alunos foram chegando, pedindo para que abrissem seus respectivos projetos já começados a ser desenvolvidos na primeira aula. Demos uma olhada em cada projeto de cada aluno para sabermos exatamente aonde pararam e como estava o desenvolvimento. Podemos analisar que os estudantes inscritos no curso tinham muita criatividade e facilidade. Como já estava combinado e programado, fizemos as tarefas propostas para o segundo dia, que foi a animação de personagem, mudança de cenário e como conseguimos administrar bem a aula, sobrou um tempo no final da aula e através de tutorial da própria ferramenta, mostramos à eles a jogar um joystrick na cena.
 
+- Ana Letícia: Ficou no pc mostrando aos alunos passo a passo das atividades propostas
+- Inácio:
 
+  Os dois deram assistência para os alunos, tirando dúvidas individuais e gerais.
 
+## Percepções Pessoais
+
+Ana Letícia: Eu fiquei maravilhada com a facilidade dos alunos no desenvolvimento. Um dos alunos era bem pequeno, ele me disse que estava no 6ºano do EF e o projeto dele estava muito bem feito e muito bem construído. Ele e mais duas alunas foram as que mais me chamaram a atenção, uma delas desenvolveu um jogo isométrico e ficou muito bonito, ela sabia coisas que são mesmos não sabíamos. A outra, o que eu gostei do desenvolvimento dela foi a persistência, de querer fazer as coisas e acrescentar, tanto que eu até brinquei com ela e dei um apelido de "futura design gráfica". Eu amei a experiência e os alunos colaboram muito com todos nós integrantes.
+
+Inácio: 
 
 
 
